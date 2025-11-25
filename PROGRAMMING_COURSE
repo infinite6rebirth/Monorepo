@@ -1,3 +1,4 @@
+python
 # Writing three deliverable files into /mnt/data:
 # 1) docs/PROGRAMMING_COURSE.md - full course syllabus (based on earlier assistant message)
 # 2) starter_kit/ files: .vscode/settings.json, pyproject.toml, .pre-commit-config.yaml, .github/workflows/ci.yml, WEEK1_EXERCISES.md
